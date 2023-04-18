@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QRMM96gHfN3F2S+VmgFJ3IVZaqvUiMIr3KEAK0RaqBM=",
+  "Source": "SchoolBusApi",
+  "BasePath": "_content/SchoolBusApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
